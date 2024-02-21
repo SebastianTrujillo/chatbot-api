@@ -12,7 +12,7 @@ Chatbot project REST API.
 ## Requirements
 
 - Create `.env` file with the following environment variables.
-- Download [MongoDB](https://www.mongodb.com/) and execute the content of the setup-database.ts file.
+- Download [MongoDB](https://www.mongodb.com/) and execute the content of the [setup-database.ts](https://github.com/SebastianTrujillo/chatbot-api/blob/main/src/databases/setup-database.ts) file.
 
 ```
 PORT=4000
