@@ -23,9 +23,7 @@ class ChatController {
             {
               role: 'user',
               content: `
-                Respond in English in this format:
-                Hi, interesting question! Reviewing the content of some tables
-                I find for this {time grain} time grain it would be around {function result}.
+                Respond in English in this format: Hi! I have found some results. {time grain}, I estimate around {quantity}. {new question}
               `,
             },
             message,
